@@ -6,5 +6,5 @@
 
 ## Demo
 
-file:///C:/Users/shipra%20singh/Documents/Curved%20lane%20Detection/output_video.mp4">
+file:///C:/Users/shipra%20singh/Documents/Curved%20lane%20Detection/output_video.mp4
 
