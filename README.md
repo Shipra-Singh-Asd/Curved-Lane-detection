@@ -3,3 +3,8 @@
 *  Curved lane detection contributes significantly to road safety. Autonomous vehicles rely on detailed information about road geometry and lane positions to make informed decisions and navigate safely
 *  The objective of this project is to develop a robust and real-time curved lane detection system for use in advanced driver assistance systems (ADAS). The system must accurately identify, track, and provide information about curved lanes on the road to ensure safe and efficient driver assistance.
 
+
+## Demo
+
+https://github.com/Shipra-Singh-Asd/Curved-Lane-detection/blob/main/output_video.mp4
+
