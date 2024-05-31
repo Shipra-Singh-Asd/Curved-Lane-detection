@@ -4,7 +4,3 @@
 *  The objective of this project is to develop a robust and real-time curved lane detection system for use in advanced driver assistance systems (ADAS). The system must accurately identify, track, and provide information about curved lanes on the road to ensure safe and efficient driver assistance.
 
 
-## Demo
-
-file:///C:/Users/shipra%20singh/Documents/Curved%20lane%20Detection/output_video.mp4
-
