@@ -6,5 +6,5 @@
 
 ## Demo
 
-https://github.com/Shipra-Singh-Asd/Curved-Lane-detection/blob/main/output_video.mp4
+C:/Users/shipra singh/Desktop/tmp11.mp4
 
